@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Lokotb.github.io/rsschool-cv/cv
