@@ -1,0 +1,73 @@
+body{
+color: rgb(212, 212, 212);
+margin: 0;
+font-family: 'Montserrat', sans-serif;
+background: black;
+
+}
+.container{
+width: 100%;
+max-width: 1200px;
+margin:0 auto;
+padding: 0;
+position: relative;
+}
+h1{
+    margin-bottom: 10px;
+}
+h2{
+    width: 630px;
+}
+section{
+    position: relative;
+}
+.image_me{
+    position: absolute;
+    left: 700px;
+    top: 10px;
+}
+.contact{
+    margin-top: 20px;
+    width: 300px;
+    display: flex;
+    border: 2px solid;
+    border-radius: 6px;
+    padding: 2px;
+}
+.name_line{
+    text-transform: uppercase;
+    margin: 0;
+    margin-right: 20px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+ul{
+    list-style: none;
+}
+nav{
+    display: flex;
+}
+.about_me{
+width: 600px;
+margin-top: 15px;
+font-weight: 700;
+letter-spacing: 1px;
+font-size: 20px;
+}
+.point{
+width: 600px;
+margin-top: 15px;
+font-weight: 700;
+letter-spacing: 1px;
+font-size: 20px;
+}
+h3{
+    margin: 0;
+    border: 2px solid;
+    border-radius: 6px;
+    padding: 2px;
+    
+}
+
