@@ -13,7 +13,7 @@ padding: 0;
 position: relative;
 }
 h1{
-    margin-bottom: 10px;
+    margin-bottom: 5px;
 }
 h2{
     width: 630px;
@@ -27,7 +27,7 @@ section{
     top: 10px;
 }
 .contact{
-    margin-top: 20px;
+    margin-top: 10px;
     width: 300px;
     display: flex;
     border: 2px solid;
@@ -70,4 +70,19 @@ h3{
     padding: 2px;
     
 }
+.footer_rs{
+    margin-top: 2px;
+    background: white;
+    width: 100px;
+    color: black;
+    font-weight:bolder;
+    display: flex;
+    margin: 0;
+}
+.footer_rs p{
+    margin-left: 10px;
+    
+}
+
+
 
