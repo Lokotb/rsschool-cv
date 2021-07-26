@@ -1,1 +1,1 @@
-https://Lokotb.github.io/rsschool-cv/cv
+https://Lokotb.github.io/rsschool-cv/
